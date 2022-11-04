@@ -1,0 +1,17 @@
+{
+  "name": "weather-app-details",
+  "version": "1.0.1",
+  "description": "Contains data for Weather Application",
+  "main": "timeZone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather-app",
+    "weatherapp",
+    "weather-app-datas",
+    "weather-app-details"
+  ],
+  "author": "Vijai Sivakumar",
+  "license": "ISC"
+}
